@@ -15,7 +15,7 @@ As *Stats 220* students we have to create a meme from our **Project 1** using th
 * This is just furthering our skills with R code
 
 4. Part D is ***HTML creation***
-* In this part we focus on further strenghting ouyr HTML skills
+* In this part we focus on further strenghting our HTML skills
 
 5. Part E is ***Setting up Github Pages***
 * This is testing our knowledge with URL codes
