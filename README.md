@@ -25,7 +25,7 @@ As *Stats 220* students we have to create a meme from our **Project 1** using th
 
 
 ##### Notes
-Links to download to see the code at work [R](https://cran.r-project.org/) and RStudio
+Links to download to see the code at work [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/).
 
 *Pascal* *Aspden-Mann*
 
